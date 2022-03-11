@@ -6,6 +6,7 @@ import Characters from './components/Characters';
 
 function App() {
 
+  //
   // useState
   const [characters, setCharacters] = useState(null);
 
